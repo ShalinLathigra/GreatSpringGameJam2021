@@ -41,3 +41,8 @@ Core ideas:
 
         Should also include a scene transition from level 0 to level 1?
             Overnight, Tone level towards blue, change background to night, palette shift to day, shift level back to white
+
+
+Need to figure out Slopes!!!
+
+Info on Player Movement is in Squirrel.gd
